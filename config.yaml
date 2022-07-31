@@ -1,0 +1,4 @@
+indir: F:/TASK/Snakemake/sample
+outdir: F:/TASK/Snakemake/sample/analysis
+thread: 10
+sample_sheet: path/to/sample_sheet
