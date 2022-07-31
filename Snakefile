@@ -167,6 +167,9 @@ rule annotation:
     shell:
         "prokka --cpus {threads} --species {params.species} --gram {params.gram} --prefix  "
 
+rule assembly_assessment:
+    
+
 
 
 
