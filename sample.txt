@@ -1,0 +1,3 @@
+Sample	fq1	fq2	fq3	name	reference	strain	species
+A	path/to/fastq1	path/to/fastq2	path/to/fastq_np	Ecoli	path/to/reference	negative	Escherichia colu
+B	path/to/fastq3	path/to/fastq4	path/to/fastq_np	Salmonella	path/to/reference	negative
